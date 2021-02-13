@@ -1,8 +1,10 @@
-## VOTING APP
+## VOTING APP Version 2
 
 #### Created using Node/Express, MySQL/Knex and React Js
 
 ##### Previously I created this app using Vue Js 3 for the frontend and MongoDB for the database but I decided to switch into React Js (frontend) and MySQL (database) with some improvements
+
+#### Old version here: https://github.com/abdoerrahiem/voting-app-user
 
 #### Deployed here: https://voting-app-user.vercel.app/
 
